@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+*.pt
+saida*.mp4
+*.mp4
+preview.png
+!exemplo.mp4
